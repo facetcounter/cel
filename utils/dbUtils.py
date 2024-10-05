@@ -17,8 +17,10 @@ c1 = "create table connectionLog (id integer primary key, ct integer)"
 c2 = "insert into connectionLog (id, ct) values (1, 0)"
 c3 = "drop table connectionLog"
 
+d1 = "create table predictedTemps (id integer primary key, capturedTime timestamp, predictionTime timestamp, predictedTemp float, lat float,lng float)"
+
 try:
-    conn.execute(c2)
+    conn.execute(d1)
     conn.commit()
 except Exception as e:
     print(e)

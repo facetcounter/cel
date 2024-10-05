@@ -1,23 +1,10 @@
 from fastapi import FastAPI
-
-import sqlite3
-from sqlite3 import Error
-
-def create_connection(path):
-    connection = None
-    try:
-        connection = sqlite3.connect(path)
-        print("Connection to SQLite DB successful")
-    except Error as e:
-        print(f"The error '{e}' occurred")
-
-    return connection
-
-
-conn = create_connection("./db/db.sqlite")
-cur = conn.cursor()
+from datetime import datetime, timedelta
+from utils.util import dbConnect,log
 app = FastAPI()
 
+conn = dbConnect()
+cur = conn.cursor()
 
 @app.get("/")
 async def root():
@@ -25,5 +12,12 @@ async def root():
     conn.commit()
     count = cur.execute("SELECT ct FROM connectionLog WHERE id = 1")
     records = count.fetchall()
-    print("records are ", records)
     return {"message": "Hello World: "+str(records[0][0])}
+
+@app.get("/forcastRange")
+async def forcastRange(lat: float=39.7456, lng: float = -97.0892, dt:str="",hr:int=12):
+    predictionStartTime = datetime.strptime(dt+" "+str(hr)+":00:00", "%Y-%m-%d %H:%M:%S")
+    predictionEndTime = predictionStartTime + timedelta(hours=1)
+    cur.execute("SELECT max(predictedTemp),min(predictedTemp) FROM predictedTemps where lat = ? and lng = ? and predictionTime > ? and predictionTime < ?", (lat, lng, predictionStartTime.strftime("%Y-%m-%dT%H:%M:%S-00:00"), predictionEndTime.strftime("%Y-%m-%dT%H:%M:%S-00:00")))
+    records = cur.fetchall()
+    return {"message": records}
