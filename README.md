@@ -2,6 +2,27 @@
 
 ## assumptions
 
+I assumed that the overall purpose of the application was to allow analysis of how much the foraast for a given day/time and location would vary over the preceding three days.
+
+I don't think collecting data more frequently changes this result.  I think querying into which hour of a 24 hour period has the biggest variance miught be interesting.
+
+In implementation, I assumed that less code, fewer dependencies and fewer files would be more readable for a simple implementation so I stayed with vanilla python wherever I could.
+
+
+
+## to do list
+If the assumption about the purpose of the data collection is correct, an second table could be created for past data holding only the derived aggregations we care about and keeping the data size down were we to have a lot of data and a lot of requests from end users.
+
+I would attach storage for the sqlite and logs instead of having them live in the container when they reset when the container restarts. That said, having a standalone DB and structlog sending to a log aggregation system would be the better long term solution.
+
+Both the fastapi application and the polling data collection application live in the same container.  Once data and logs were taken out into external systems, it would be easy to make one container for each process.
+
+Simple test automation would be helpful, and integrating test automation runs into the deploy process would be good.
+
+Some error conditions may kill the application so being a bit thorough about testing edge cases and also setting up health checks and auto-restarts would be good.
+
+
+
 
 ## how to build
 

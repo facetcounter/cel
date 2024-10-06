@@ -19,8 +19,10 @@ c3 = "drop table connectionLog"
 
 d1 = "create table predictedTemps (id integer primary key, capturedTime timestamp, predictionTime timestamp, predictedTemp float, lat float,lng float)"
 
+noOp = "select 1"
+
 try:
-    conn.execute(d1)
+    conn.execute(noOp)
     conn.commit()
 except Exception as e:
     print(e)

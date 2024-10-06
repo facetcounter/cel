@@ -27,7 +27,7 @@ Implement a Dockerized application in Python that tracks the variation in weathe
 
 5. The API or endpoint must return the highest and lowest recorded forecast in the database for the specified location, day and hour of day
 
-6. The application must contain an appropriate Dockerfile and otherresources to containerize the application 
+6. The application must contain an appropriate Dockerfile and other resources to containerize the application 
 
 7. The application must include a README with instructions for building the Docker container and running the application 
 
