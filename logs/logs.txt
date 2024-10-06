@@ -1,0 +1,1535 @@
+fetching: https://api.weather.gov/points/39.7456,-97.0892
+fetching: https://api.weather.gov/gridpoints/TOP/32,81/forecast/hourly
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.817986','2024-10-05T18:00:00-05:00',89,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.821168','2024-10-05T19:00:00-05:00',86,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.823065','2024-10-05T20:00:00-05:00',79,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.824207','2024-10-05T21:00:00-05:00',74,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.825642','2024-10-05T22:00:00-05:00',70,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.827111','2024-10-05T23:00:00-05:00',68,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.828334','2024-10-06T00:00:00-05:00',65,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.829241','2024-10-06T01:00:00-05:00',62,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.830301','2024-10-06T02:00:00-05:00',59,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.831192','2024-10-06T03:00:00-05:00',57,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.832154','2024-10-06T04:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.833114','2024-10-06T05:00:00-05:00',53,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.834281','2024-10-06T06:00:00-05:00',52,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.835386','2024-10-06T07:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.836379','2024-10-06T08:00:00-05:00',49,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.837503','2024-10-06T09:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.838637','2024-10-06T10:00:00-05:00',61,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.840423','2024-10-06T11:00:00-05:00',65,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.841903','2024-10-06T12:00:00-05:00',68,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.842874','2024-10-06T13:00:00-05:00',71,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.843877','2024-10-06T14:00:00-05:00',73,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.844841','2024-10-06T15:00:00-05:00',74,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.845872','2024-10-06T16:00:00-05:00',75,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.847208','2024-10-06T17:00:00-05:00',73,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.848334','2024-10-06T18:00:00-05:00',71,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.849497','2024-10-06T19:00:00-05:00',68,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.850440','2024-10-06T20:00:00-05:00',62,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.851448','2024-10-06T21:00:00-05:00',58,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.852405','2024-10-06T22:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.853487','2024-10-06T23:00:00-05:00',54,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.854454','2024-10-07T00:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.855361','2024-10-07T01:00:00-05:00',49,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.856403','2024-10-07T02:00:00-05:00',48,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.857429','2024-10-07T03:00:00-05:00',46,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.858257','2024-10-07T04:00:00-05:00',44,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.859362','2024-10-07T05:00:00-05:00',44,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.860278','2024-10-07T06:00:00-05:00',43,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.861148','2024-10-07T07:00:00-05:00',42,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.861977','2024-10-07T08:00:00-05:00',47,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.862841','2024-10-07T09:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.863781','2024-10-07T10:00:00-05:00',56,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.864703','2024-10-07T11:00:00-05:00',60,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.865566','2024-10-07T12:00:00-05:00',65,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.866599','2024-10-07T13:00:00-05:00',69,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.867702','2024-10-07T14:00:00-05:00',71,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.868721','2024-10-07T15:00:00-05:00',73,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.870151','2024-10-07T16:00:00-05:00',75,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.871227','2024-10-07T17:00:00-05:00',73,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.872028','2024-10-07T18:00:00-05:00',71,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.873372','2024-10-07T19:00:00-05:00',69,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.874573','2024-10-07T20:00:00-05:00',65,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.875511','2024-10-07T21:00:00-05:00',61,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.876533','2024-10-07T22:00:00-05:00',58,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.877436','2024-10-07T23:00:00-05:00',56,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.878862','2024-10-08T00:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.880476','2024-10-08T01:00:00-05:00',53,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.882049','2024-10-08T02:00:00-05:00',52,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.883015','2024-10-08T03:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.884199','2024-10-08T04:00:00-05:00',49,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.885407','2024-10-08T05:00:00-05:00',48,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.886650','2024-10-08T06:00:00-05:00',47,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.887479','2024-10-08T07:00:00-05:00',46,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.888275','2024-10-08T08:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.889313','2024-10-08T09:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.892500','2024-10-08T10:00:00-05:00',59,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.893595','2024-10-08T11:00:00-05:00',64,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.894711','2024-10-08T12:00:00-05:00',69,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.895839','2024-10-08T13:00:00-05:00',74,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.897192','2024-10-08T14:00:00-05:00',75,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.898180','2024-10-08T15:00:00-05:00',77,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.899143','2024-10-08T16:00:00-05:00',79,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:39:34.900075','2024-10-08T17:00:00-05:00',76,39.7456,-97.0892)
+COMMIT
+fetching: https://api.weather.gov/points/39.7456,-97.0892
+fetching: https://api.weather.gov/gridpoints/TOP/32,81/forecast/hourly
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.851746','2024-10-05T18:00:00-05:00',89,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.853863','2024-10-05T19:00:00-05:00',86,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.855990','2024-10-05T20:00:00-05:00',79,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.857417','2024-10-05T21:00:00-05:00',74,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.858744','2024-10-05T22:00:00-05:00',70,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.859931','2024-10-05T23:00:00-05:00',68,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.860987','2024-10-06T00:00:00-05:00',65,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.862367','2024-10-06T01:00:00-05:00',62,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.863754','2024-10-06T02:00:00-05:00',59,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.865328','2024-10-06T03:00:00-05:00',57,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.866522','2024-10-06T04:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.867877','2024-10-06T05:00:00-05:00',53,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.869083','2024-10-06T06:00:00-05:00',52,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.870229','2024-10-06T07:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.871300','2024-10-06T08:00:00-05:00',49,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.872334','2024-10-06T09:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.873383','2024-10-06T10:00:00-05:00',61,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.874968','2024-10-06T11:00:00-05:00',65,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.876175','2024-10-06T12:00:00-05:00',68,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.877135','2024-10-06T13:00:00-05:00',71,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.878076','2024-10-06T14:00:00-05:00',73,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.879115','2024-10-06T15:00:00-05:00',74,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.880242','2024-10-06T16:00:00-05:00',75,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.881158','2024-10-06T17:00:00-05:00',73,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.882309','2024-10-06T18:00:00-05:00',71,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.883428','2024-10-06T19:00:00-05:00',68,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.884700','2024-10-06T20:00:00-05:00',62,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.885842','2024-10-06T21:00:00-05:00',58,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.886738','2024-10-06T22:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.887512','2024-10-06T23:00:00-05:00',54,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.888372','2024-10-07T00:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.889381','2024-10-07T01:00:00-05:00',49,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.890342','2024-10-07T02:00:00-05:00',48,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.891180','2024-10-07T03:00:00-05:00',46,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.892228','2024-10-07T04:00:00-05:00',44,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.893089','2024-10-07T05:00:00-05:00',44,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.894075','2024-10-07T06:00:00-05:00',43,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.895180','2024-10-07T07:00:00-05:00',42,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.896085','2024-10-07T08:00:00-05:00',47,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.897070','2024-10-07T09:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.898109','2024-10-07T10:00:00-05:00',56,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.898916','2024-10-07T11:00:00-05:00',60,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.899717','2024-10-07T12:00:00-05:00',65,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.900704','2024-10-07T13:00:00-05:00',69,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.901585','2024-10-07T14:00:00-05:00',71,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.902482','2024-10-07T15:00:00-05:00',73,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.903551','2024-10-07T16:00:00-05:00',75,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.904557','2024-10-07T17:00:00-05:00',73,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.905523','2024-10-07T18:00:00-05:00',71,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.906536','2024-10-07T19:00:00-05:00',69,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.907465','2024-10-07T20:00:00-05:00',65,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.908332','2024-10-07T21:00:00-05:00',61,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.909269','2024-10-07T22:00:00-05:00',58,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.910542','2024-10-07T23:00:00-05:00',56,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.911429','2024-10-08T00:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.912257','2024-10-08T01:00:00-05:00',53,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.913061','2024-10-08T02:00:00-05:00',52,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.914045','2024-10-08T03:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.915137','2024-10-08T04:00:00-05:00',49,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.916069','2024-10-08T05:00:00-05:00',48,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.916920','2024-10-08T06:00:00-05:00',47,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.918104','2024-10-08T07:00:00-05:00',46,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.919181','2024-10-08T08:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.920212','2024-10-08T09:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.921167','2024-10-08T10:00:00-05:00',59,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.922345','2024-10-08T11:00:00-05:00',64,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.923298','2024-10-08T12:00:00-05:00',69,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.924146','2024-10-08T13:00:00-05:00',74,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.924963','2024-10-08T14:00:00-05:00',75,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.925859','2024-10-08T15:00:00-05:00',77,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.926819','2024-10-08T16:00:00-05:00',79,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:49:35.927868','2024-10-08T17:00:00-05:00',76,39.7456,-97.0892)
+COMMIT
+fetching: https://api.weather.gov/points/39.7456,-97.0892
+fetching: https://api.weather.gov/gridpoints/TOP/32,81/forecast/hourly
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.746617','2024-10-05T18:00:00-05:00',89,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.747953','2024-10-05T19:00:00-05:00',86,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.749203','2024-10-05T20:00:00-05:00',79,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.750427','2024-10-05T21:00:00-05:00',74,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.751658','2024-10-05T22:00:00-05:00',70,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.753169','2024-10-05T23:00:00-05:00',68,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.754643','2024-10-06T00:00:00-05:00',65,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.755838','2024-10-06T01:00:00-05:00',62,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.756652','2024-10-06T02:00:00-05:00',59,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.757842','2024-10-06T03:00:00-05:00',57,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.758800','2024-10-06T04:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.759918','2024-10-06T05:00:00-05:00',53,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.760900','2024-10-06T06:00:00-05:00',52,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.761899','2024-10-06T07:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.762835','2024-10-06T08:00:00-05:00',49,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.763704','2024-10-06T09:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.764551','2024-10-06T10:00:00-05:00',61,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.765474','2024-10-06T11:00:00-05:00',65,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.766519','2024-10-06T12:00:00-05:00',68,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.767700','2024-10-06T13:00:00-05:00',71,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.768687','2024-10-06T14:00:00-05:00',73,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.769653','2024-10-06T15:00:00-05:00',74,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.770541','2024-10-06T16:00:00-05:00',75,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.771317','2024-10-06T17:00:00-05:00',73,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.772208','2024-10-06T18:00:00-05:00',71,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.773742','2024-10-06T19:00:00-05:00',68,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.774655','2024-10-06T20:00:00-05:00',62,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.775480','2024-10-06T21:00:00-05:00',58,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.776338','2024-10-06T22:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.777227','2024-10-06T23:00:00-05:00',54,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.778318','2024-10-07T00:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.779189','2024-10-07T01:00:00-05:00',49,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.780009','2024-10-07T02:00:00-05:00',48,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.780993','2024-10-07T03:00:00-05:00',46,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.781912','2024-10-07T04:00:00-05:00',44,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.782749','2024-10-07T05:00:00-05:00',44,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.783971','2024-10-07T06:00:00-05:00',43,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.785266','2024-10-07T07:00:00-05:00',42,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.786315','2024-10-07T08:00:00-05:00',47,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.787146','2024-10-07T09:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.788075','2024-10-07T10:00:00-05:00',56,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.788903','2024-10-07T11:00:00-05:00',60,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.789663','2024-10-07T12:00:00-05:00',65,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.790855','2024-10-07T13:00:00-05:00',69,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.792230','2024-10-07T14:00:00-05:00',71,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.793598','2024-10-07T15:00:00-05:00',73,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.794741','2024-10-07T16:00:00-05:00',75,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.795975','2024-10-07T17:00:00-05:00',73,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.797281','2024-10-07T18:00:00-05:00',71,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.798355','2024-10-07T19:00:00-05:00',69,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.799274','2024-10-07T20:00:00-05:00',65,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.800261','2024-10-07T21:00:00-05:00',61,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.801349','2024-10-07T22:00:00-05:00',58,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.802333','2024-10-07T23:00:00-05:00',56,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.803230','2024-10-08T00:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.804171','2024-10-08T01:00:00-05:00',53,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.805310','2024-10-08T02:00:00-05:00',52,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.806130','2024-10-08T03:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.807435','2024-10-08T04:00:00-05:00',49,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.808338','2024-10-08T05:00:00-05:00',48,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.809258','2024-10-08T06:00:00-05:00',47,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.810187','2024-10-08T07:00:00-05:00',46,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.811303','2024-10-08T08:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.812575','2024-10-08T09:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.813454','2024-10-08T10:00:00-05:00',59,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.814256','2024-10-08T11:00:00-05:00',64,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.815098','2024-10-08T12:00:00-05:00',69,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.816479','2024-10-08T13:00:00-05:00',74,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.817668','2024-10-08T14:00:00-05:00',75,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.819049','2024-10-08T15:00:00-05:00',77,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.819944','2024-10-08T16:00:00-05:00',79,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 16:59:36.820936','2024-10-08T17:00:00-05:00',76,39.7456,-97.0892)
+COMMIT
+fetching: https://api.weather.gov/points/39.7456,-97.0892
+fetching: https://api.weather.gov/gridpoints/TOP/32,81/forecast/hourly
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.244126','2024-10-05T18:00:00-05:00',89,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.327463','2024-10-05T19:00:00-05:00',86,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.342175','2024-10-05T20:00:00-05:00',79,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.350374','2024-10-05T21:00:00-05:00',74,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.354256','2024-10-05T22:00:00-05:00',70,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.356254','2024-10-05T23:00:00-05:00',68,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.359484','2024-10-06T00:00:00-05:00',65,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.377761','2024-10-06T01:00:00-05:00',62,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.383470','2024-10-06T02:00:00-05:00',59,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.385060','2024-10-06T03:00:00-05:00',57,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.386763','2024-10-06T04:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.388151','2024-10-06T05:00:00-05:00',53,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.402876','2024-10-06T06:00:00-05:00',52,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.405876','2024-10-06T07:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.408678','2024-10-06T08:00:00-05:00',49,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.411394','2024-10-06T09:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.413813','2024-10-06T10:00:00-05:00',61,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.417565','2024-10-06T11:00:00-05:00',65,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.420379','2024-10-06T12:00:00-05:00',68,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.424888','2024-10-06T13:00:00-05:00',71,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.426877','2024-10-06T14:00:00-05:00',73,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.429201','2024-10-06T15:00:00-05:00',74,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.432144','2024-10-06T16:00:00-05:00',75,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.435306','2024-10-06T17:00:00-05:00',73,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.438106','2024-10-06T18:00:00-05:00',71,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.439783','2024-10-06T19:00:00-05:00',68,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.442741','2024-10-06T20:00:00-05:00',62,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.444526','2024-10-06T21:00:00-05:00',58,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.446676','2024-10-06T22:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.448728','2024-10-06T23:00:00-05:00',54,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.450678','2024-10-07T00:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.453017','2024-10-07T01:00:00-05:00',49,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.455337','2024-10-07T02:00:00-05:00',48,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.457331','2024-10-07T03:00:00-05:00',46,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.459788','2024-10-07T04:00:00-05:00',44,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.461921','2024-10-07T05:00:00-05:00',44,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.464334','2024-10-07T06:00:00-05:00',43,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.467965','2024-10-07T07:00:00-05:00',42,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.471000','2024-10-07T08:00:00-05:00',47,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.473442','2024-10-07T09:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.475952','2024-10-07T10:00:00-05:00',56,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.481006','2024-10-07T11:00:00-05:00',60,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.489063','2024-10-07T12:00:00-05:00',65,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.491166','2024-10-07T13:00:00-05:00',69,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.495520','2024-10-07T14:00:00-05:00',71,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.505652','2024-10-07T15:00:00-05:00',73,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.517148','2024-10-07T16:00:00-05:00',75,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.532504','2024-10-07T17:00:00-05:00',73,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.538683','2024-10-07T18:00:00-05:00',71,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.546639','2024-10-07T19:00:00-05:00',69,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.549796','2024-10-07T20:00:00-05:00',65,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.551766','2024-10-07T21:00:00-05:00',61,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.554982','2024-10-07T22:00:00-05:00',58,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.556994','2024-10-07T23:00:00-05:00',56,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.558680','2024-10-08T00:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.560308','2024-10-08T01:00:00-05:00',53,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.562264','2024-10-08T02:00:00-05:00',52,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.564171','2024-10-08T03:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.566088','2024-10-08T04:00:00-05:00',49,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.568016','2024-10-08T05:00:00-05:00',48,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.573866','2024-10-08T06:00:00-05:00',47,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.575794','2024-10-08T07:00:00-05:00',46,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.577445','2024-10-08T08:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.579039','2024-10-08T09:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.580522','2024-10-08T10:00:00-05:00',59,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.582213','2024-10-08T11:00:00-05:00',64,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.583882','2024-10-08T12:00:00-05:00',69,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.585455','2024-10-08T13:00:00-05:00',74,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.586923','2024-10-08T14:00:00-05:00',75,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.588878','2024-10-08T15:00:00-05:00',77,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.590625','2024-10-08T16:00:00-05:00',79,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:20:06.592330','2024-10-08T17:00:00-05:00',76,39.7456,-97.0892)
+COMMIT
+fetching: https://api.weather.gov/points/39.7456,-97.0892
+fetching: https://api.weather.gov/gridpoints/TOP/32,81/forecast/hourly
+fetching: https://api.weather.gov/points/39.7456,-97.0892
+fetching: https://api.weather.gov/gridpoints/TOP/32,81/forecast/hourly
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.260211','2024-10-05T19:00:00-05:00',85,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.265281','2024-10-05T20:00:00-05:00',80,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.266606','2024-10-05T21:00:00-05:00',74,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.268028','2024-10-05T22:00:00-05:00',70,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.269756','2024-10-05T23:00:00-05:00',68,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.272045','2024-10-06T00:00:00-05:00',65,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.273230','2024-10-06T01:00:00-05:00',62,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.274403','2024-10-06T02:00:00-05:00',59,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.275522','2024-10-06T03:00:00-05:00',57,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.276974','2024-10-06T04:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.277868','2024-10-06T05:00:00-05:00',53,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.278836','2024-10-06T06:00:00-05:00',52,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.279827','2024-10-06T07:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.280920','2024-10-06T08:00:00-05:00',49,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.281966','2024-10-06T09:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.282904','2024-10-06T10:00:00-05:00',61,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.283786','2024-10-06T11:00:00-05:00',65,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.284581','2024-10-06T12:00:00-05:00',68,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.285499','2024-10-06T13:00:00-05:00',71,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.288768','2024-10-06T14:00:00-05:00',73,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.290029','2024-10-06T15:00:00-05:00',74,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.291375','2024-10-06T16:00:00-05:00',75,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.292494','2024-10-06T17:00:00-05:00',73,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.293585','2024-10-06T18:00:00-05:00',71,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.295354','2024-10-06T19:00:00-05:00',68,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.296600','2024-10-06T20:00:00-05:00',62,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.297648','2024-10-06T21:00:00-05:00',58,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.298608','2024-10-06T22:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.299495','2024-10-06T23:00:00-05:00',54,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.300287','2024-10-07T00:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.301420','2024-10-07T01:00:00-05:00',49,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.303016','2024-10-07T02:00:00-05:00',48,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.304888','2024-10-07T03:00:00-05:00',46,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.306289','2024-10-07T04:00:00-05:00',44,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.308163','2024-10-07T05:00:00-05:00',44,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.309423','2024-10-07T06:00:00-05:00',43,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.310695','2024-10-07T07:00:00-05:00',42,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.311723','2024-10-07T08:00:00-05:00',47,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.312711','2024-10-07T09:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.313825','2024-10-07T10:00:00-05:00',56,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.314880','2024-10-07T11:00:00-05:00',60,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.315888','2024-10-07T12:00:00-05:00',65,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.316898','2024-10-07T13:00:00-05:00',69,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.317851','2024-10-07T14:00:00-05:00',71,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.318775','2024-10-07T15:00:00-05:00',73,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.322929','2024-10-07T16:00:00-05:00',75,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.325554','2024-10-07T17:00:00-05:00',73,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.326593','2024-10-07T18:00:00-05:00',71,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.327706','2024-10-07T19:00:00-05:00',69,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.328886','2024-10-07T20:00:00-05:00',65,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.330252','2024-10-07T21:00:00-05:00',61,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.331284','2024-10-07T22:00:00-05:00',58,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.332812','2024-10-07T23:00:00-05:00',56,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.333780','2024-10-08T00:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.335289','2024-10-08T01:00:00-05:00',53,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.337395','2024-10-08T02:00:00-05:00',52,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.339597','2024-10-08T03:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.340666','2024-10-08T04:00:00-05:00',49,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.342111','2024-10-08T05:00:00-05:00',48,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.343057','2024-10-08T06:00:00-05:00',47,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.344032','2024-10-08T07:00:00-05:00',46,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.345541','2024-10-08T08:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.346733','2024-10-08T09:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.347665','2024-10-08T10:00:00-05:00',59,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.348513','2024-10-08T11:00:00-05:00',64,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.349700','2024-10-08T12:00:00-05:00',69,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.350729','2024-10-08T13:00:00-05:00',74,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.351723','2024-10-08T14:00:00-05:00',75,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.354287','2024-10-08T15:00:00-05:00',77,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.356437','2024-10-08T16:00:00-05:00',79,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.358254','2024-10-08T17:00:00-05:00',76,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:33:12.359373','2024-10-08T18:00:00-05:00',74,39.7456,-97.0892)
+COMMIT
+SELECT max(predictedTemp),min(predictedTemp) FROM predictedTemps where lat = 39.7456 and lng = -97.0892 and predictionTime > '2024-10-05T20:00:00-00:00' and predictionTime < '2024-10-05T21:00:00-00:00'
+SELECT max(predictedTemp),min(predictedTemp) FROM predictedTemps where lat = 39.7456 and lng = -97.0892 and predictionTime > '2024-10-05T20:00:00-00:00' and predictionTime < '2024-10-05T21:00:00-00:00'
+fetching: https://api.weather.gov/points/39.7456,-97.0892
+fetching: https://api.weather.gov/gridpoints/TOP/32,81/forecast/hourly
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.437817','2024-10-05T19:00:00-05:00',85,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.439327','2024-10-05T20:00:00-05:00',80,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.440598','2024-10-05T21:00:00-05:00',74,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.442092','2024-10-05T22:00:00-05:00',70,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.443841','2024-10-05T23:00:00-05:00',68,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.445222','2024-10-06T00:00:00-05:00',65,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.447019','2024-10-06T01:00:00-05:00',62,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.448262','2024-10-06T02:00:00-05:00',59,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.449497','2024-10-06T03:00:00-05:00',57,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.450465','2024-10-06T04:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.451377','2024-10-06T05:00:00-05:00',53,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.452157','2024-10-06T06:00:00-05:00',52,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.453007','2024-10-06T07:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.453966','2024-10-06T08:00:00-05:00',49,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.454723','2024-10-06T09:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.455448','2024-10-06T10:00:00-05:00',61,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.456358','2024-10-06T11:00:00-05:00',65,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.457600','2024-10-06T12:00:00-05:00',68,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.458516','2024-10-06T13:00:00-05:00',71,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.459606','2024-10-06T14:00:00-05:00',73,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.460390','2024-10-06T15:00:00-05:00',74,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.461161','2024-10-06T16:00:00-05:00',75,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.461912','2024-10-06T17:00:00-05:00',73,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.462866','2024-10-06T18:00:00-05:00',71,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.463845','2024-10-06T19:00:00-05:00',68,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.464668','2024-10-06T20:00:00-05:00',62,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.465532','2024-10-06T21:00:00-05:00',58,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.466537','2024-10-06T22:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.467544','2024-10-06T23:00:00-05:00',54,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.468435','2024-10-07T00:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.469463','2024-10-07T01:00:00-05:00',49,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.470353','2024-10-07T02:00:00-05:00',48,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.471170','2024-10-07T03:00:00-05:00',46,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.471965','2024-10-07T04:00:00-05:00',44,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.472834','2024-10-07T05:00:00-05:00',44,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.473748','2024-10-07T06:00:00-05:00',43,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.474541','2024-10-07T07:00:00-05:00',42,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.475377','2024-10-07T08:00:00-05:00',47,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.476223','2024-10-07T09:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.477103','2024-10-07T10:00:00-05:00',56,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.478029','2024-10-07T11:00:00-05:00',60,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.479017','2024-10-07T12:00:00-05:00',65,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.480133','2024-10-07T13:00:00-05:00',69,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.481061','2024-10-07T14:00:00-05:00',71,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.481793','2024-10-07T15:00:00-05:00',73,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.482634','2024-10-07T16:00:00-05:00',75,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.483769','2024-10-07T17:00:00-05:00',73,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.484768','2024-10-07T18:00:00-05:00',71,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.485771','2024-10-07T19:00:00-05:00',69,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.486604','2024-10-07T20:00:00-05:00',65,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.487689','2024-10-07T21:00:00-05:00',61,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.488571','2024-10-07T22:00:00-05:00',58,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.489580','2024-10-07T23:00:00-05:00',56,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.490661','2024-10-08T00:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.492346','2024-10-08T01:00:00-05:00',53,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.493375','2024-10-08T02:00:00-05:00',52,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.494343','2024-10-08T03:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.495384','2024-10-08T04:00:00-05:00',49,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.496425','2024-10-08T05:00:00-05:00',48,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.497982','2024-10-08T06:00:00-05:00',47,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.499129','2024-10-08T07:00:00-05:00',46,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.500270','2024-10-08T08:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.501471','2024-10-08T09:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.502658','2024-10-08T10:00:00-05:00',59,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.503704','2024-10-08T11:00:00-05:00',64,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.504556','2024-10-08T12:00:00-05:00',69,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.505545','2024-10-08T13:00:00-05:00',74,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.506468','2024-10-08T14:00:00-05:00',75,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.507790','2024-10-08T15:00:00-05:00',77,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.509318','2024-10-08T16:00:00-05:00',79,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.510600','2024-10-08T17:00:00-05:00',76,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 17:42:28.512103','2024-10-08T18:00:00-05:00',74,39.7456,-97.0892)
+COMMIT
+SELECT max(predictedTemp),min(predictedTemp) FROM predictedTemps where lat = 39.7456 and lng = -97.0892 and predictionTime > '2024-10-05T20:00:00-00:00' and predictionTime < '2024-10-05T21:00:00-00:00'
+SELECT max(predictedTemp),min(predictedTemp) FROM predictedTemps where lat = 39.7456 and lng = -97.0892 and predictionTime > '2024-10-05T20:00:00-00:00' and predictionTime < '2024-10-05T21:00:00-00:00'
+SELECT max(predictedTemp),min(predictedTemp) FROM predictedTemps where lat = 39.7456 and lng = -97.0892 and predictionTime > '2024-10-05T20:00:00-00:00' and predictionTime < '2024-10-05T21:00:00-00:00'
+fetching: https://api.weather.gov/points/39.7456,-97.0892
+fetching: https://api.weather.gov/gridpoints/TOP/32,81/forecast/hourly
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.126422','2024-10-05T20:00:00-05:00',80,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.128235','2024-10-05T21:00:00-05:00',74,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.129487','2024-10-05T22:00:00-05:00',70,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.130818','2024-10-05T23:00:00-05:00',68,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.132262','2024-10-06T00:00:00-05:00',65,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.133338','2024-10-06T01:00:00-05:00',62,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.134763','2024-10-06T02:00:00-05:00',59,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.135746','2024-10-06T03:00:00-05:00',57,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.136472','2024-10-06T04:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.137341','2024-10-06T05:00:00-05:00',53,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.138382','2024-10-06T06:00:00-05:00',52,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.139282','2024-10-06T07:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.140228','2024-10-06T08:00:00-05:00',49,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.141285','2024-10-06T09:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.142458','2024-10-06T10:00:00-05:00',61,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.143382','2024-10-06T11:00:00-05:00',65,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.144604','2024-10-06T12:00:00-05:00',68,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.145757','2024-10-06T13:00:00-05:00',71,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.147042','2024-10-06T14:00:00-05:00',73,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.148187','2024-10-06T15:00:00-05:00',74,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.149057','2024-10-06T16:00:00-05:00',75,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.150068','2024-10-06T17:00:00-05:00',73,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.151967','2024-10-06T18:00:00-05:00',71,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.153246','2024-10-06T19:00:00-05:00',68,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.154509','2024-10-06T20:00:00-05:00',62,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.155499','2024-10-06T21:00:00-05:00',58,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.156437','2024-10-06T22:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.157286','2024-10-06T23:00:00-05:00',54,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.158577','2024-10-07T00:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.160037','2024-10-07T01:00:00-05:00',49,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.160927','2024-10-07T02:00:00-05:00',48,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.161690','2024-10-07T03:00:00-05:00',46,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.162594','2024-10-07T04:00:00-05:00',44,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.163366','2024-10-07T05:00:00-05:00',44,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.164094','2024-10-07T06:00:00-05:00',43,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.164769','2024-10-07T07:00:00-05:00',42,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.165628','2024-10-07T08:00:00-05:00',47,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.166399','2024-10-07T09:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.167373','2024-10-07T10:00:00-05:00',56,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.168261','2024-10-07T11:00:00-05:00',60,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.169014','2024-10-07T12:00:00-05:00',65,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.169797','2024-10-07T13:00:00-05:00',69,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.170476','2024-10-07T14:00:00-05:00',71,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.171417','2024-10-07T15:00:00-05:00',73,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.172121','2024-10-07T16:00:00-05:00',75,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.172858','2024-10-07T17:00:00-05:00',73,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.173611','2024-10-07T18:00:00-05:00',71,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.174442','2024-10-07T19:00:00-05:00',69,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.175180','2024-10-07T20:00:00-05:00',65,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.175942','2024-10-07T21:00:00-05:00',61,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.176760','2024-10-07T22:00:00-05:00',58,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.177998','2024-10-07T23:00:00-05:00',56,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.178824','2024-10-08T00:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.179539','2024-10-08T01:00:00-05:00',53,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.180203','2024-10-08T02:00:00-05:00',52,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.180860','2024-10-08T03:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.181536','2024-10-08T04:00:00-05:00',49,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.182261','2024-10-08T05:00:00-05:00',48,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.182972','2024-10-08T06:00:00-05:00',47,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.183824','2024-10-08T07:00:00-05:00',46,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.184960','2024-10-08T08:00:00-05:00',51,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.185734','2024-10-08T09:00:00-05:00',55,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.186426','2024-10-08T10:00:00-05:00',59,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.187093','2024-10-08T11:00:00-05:00',64,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.188304','2024-10-08T12:00:00-05:00',69,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.189121','2024-10-08T13:00:00-05:00',74,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.189812','2024-10-08T14:00:00-05:00',75,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.190593','2024-10-08T15:00:00-05:00',77,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.191387','2024-10-08T16:00:00-05:00',79,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.192348','2024-10-08T17:00:00-05:00',76,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.193116','2024-10-08T18:00:00-05:00',74,39.7456,-97.0892)
+COMMIT
+BEGIN 
+insert into predictedTemps (capturedTime, predictionTime, predictedTemp, lat,lng) values ('2024-10-05 19:05:19.193855','2024-10-08T19:00:00-05:00',72,39.7456,-97.0892)
+COMMIT
+SELECT max(predictedTemp),min(predictedTemp) FROM predictedTemps where lat = 39.7456 and lng = -97.0892 and predictionTime > '2024-10-05T20:00:00-00:00' and predictionTime < '2024-10-05T21:00:00-00:00'
+SELECT max(predictedTemp),min(predictedTemp) FROM predictedTemps where lat = 39.7456 and lng = -97.0892 and predictionTime > '2024-10-05T20:00:00-00:00' and predictionTime < '2024-10-05T21:00:00-00:00'

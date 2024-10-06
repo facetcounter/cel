@@ -1,6 +1,11 @@
 from fastapi import FastAPI
 from datetime import datetime, timedelta
-from utils.util import dbConnect,log
+import schedule
+import time
+import requests
+import json
+from utils.util import dbConnect,log,dump,config
+
 app = FastAPI()
 
 conn = dbConnect()
@@ -21,3 +26,4 @@ async def forcastRange(lat: float=39.7456, lng: float = -97.0892, dt:str="",hr:i
     cur.execute("SELECT max(predictedTemp),min(predictedTemp) FROM predictedTemps where lat = ? and lng = ? and predictionTime > ? and predictionTime < ?", (lat, lng, predictionStartTime.strftime("%Y-%m-%dT%H:%M:%S-00:00"), predictionEndTime.strftime("%Y-%m-%dT%H:%M:%S-00:00")))
     records = cur.fetchall()
     return {"message": records}
+
