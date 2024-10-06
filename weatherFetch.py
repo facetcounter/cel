@@ -40,7 +40,7 @@ def announce():
 
 schedule.every(10).seconds.do(announce)
 # schedule.every().hour.do(job)
-schedule.every(10).minutes.do(job)
+schedule.every(config["requestInterval"]).seconds.do(job)
 
 job()
 while 1:

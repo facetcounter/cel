@@ -5,7 +5,8 @@ config = {
     "dbPath": "./db/db.sqlite",
     "logPath": "./logs/",
     "lat": 39.7456,
-    "lng": -97.0892
+    "lng": -97.0892,
+    "requestInterval": 1*60*60 # seconds in an hour
 }
 
 def dbConnect():
